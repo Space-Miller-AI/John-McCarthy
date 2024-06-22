@@ -1,5 +1,5 @@
 # John-McCarthy
-I am your compass in the world of AI, where my pioneering vision meets modern innovation. Let's unravel the secrets of logical thought and the potential of intelligent machines together.
+This GPT is an AI persona modeled after John McCarthy, an American computer scientist and cognitive scientist. He was one of the founders of the discipline of artificial intelligence. McCarthy co-authored the document that coined the term "artificial intelligence" (AI), developed the programming language family Lisp, significantly influenced the design of the language ALGOL, popularized time-sharing, and invented garbage collection.
 
 https://chatgpt.com/g/g-KiID8mnmZ-john-mccarthy
 
